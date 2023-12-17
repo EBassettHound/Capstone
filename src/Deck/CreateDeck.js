@@ -2,7 +2,7 @@ import React from "react";
 import { createDeck } from "../utils/api";
 import DeckForm from "./DeckForm";
 import { Link } from "react-router-dom/cjs/react-router-dom";
-function NewDeck(){
+function CreateDeck(){
 
     return(
     <div>
@@ -23,4 +23,4 @@ function NewDeck(){
     </div>
     )}
 
-export default NewDeck;
+export default CreateDeck;
