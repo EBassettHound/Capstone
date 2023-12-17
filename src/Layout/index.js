@@ -7,7 +7,7 @@ import { Route } from "react-router-dom/cjs/react-router-dom";
 import Study from "../Study/Study";
 import CreateDeck from "../Deck/CreateDeck";
 import EditDeck from "../Deck/EditDeck";
-
+import React from "react";
 
 function Layout() {
   return (
